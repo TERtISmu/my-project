@@ -7,3 +7,6 @@ subject
 sound
 line
 spotify
+red
+green
+blue
